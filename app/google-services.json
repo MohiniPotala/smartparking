@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593872908428",
+    "firebase_url": "https://parking-276a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "parking-276a4",
+    "storage_bucket": "parking-276a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593872908428:android:d8b0c451f68517fba18ba9",
+        "android_client_info": {
+          "package_name": "com.dominicsilveira.parkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593872908428-q2e0tl2dev3lttjott3ija0hbcvtajcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjYuZKzW9_MlZbZT3h5ClakNdDWGPhHLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593872908428-q2e0tl2dev3lttjott3ija0hbcvtajcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
